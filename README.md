@@ -1,4 +1,4 @@
-# Home task for Junior Java Engineer role
+# Home task for Java Engineer role
 This is Project wireframe for home task
 
 Required dependency documentation inside [HELP.md](HELP.md)
@@ -6,7 +6,7 @@ Required dependency documentation inside [HELP.md](HELP.md)
 
 
 ## Introduction
-This is the home task for the role of the Junior developer in betPawa.
+This is the home task for the role of the  developer in pawaTech.
 We are happy that you expressed interest in this role and would like to see your ability to code, learn and ask questions.
 We are not expecting you to implement everything listed in the task, but it’s really important to try.
 
